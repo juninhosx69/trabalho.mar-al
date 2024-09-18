@@ -1,0 +1,36 @@
+@font-face {
+    font-family: Montserrat;
+    src:url(Downloads/Montserrat/static/Montserrat-Medium.ttf);
+}.Alinhamento{
+    text-align: center;
+
+}.Titulo{
+    text-align: center;
+    margin-top: 200px;
+}.subtitulos{
+    font-size: 30px;
+    margin: 60px;
+}.vejamais{
+    margin-top: 70px;
+    text-align: center;
+    font-size: 20px;
+}body{
+    font-family: "Montserrat";
+ background-color: #efefef;
+}.barra{
+    border-bottom-style: solid;
+    border-bottom-color: black;
+    border-bottom-width: 5px;
+    margin-left: 800px;
+    margin-right: 800px;
+    margin-top: -20px;
+    border-radius: 30px;
+}.barra2{
+    border-bottom-style: solid;
+    border-bottom-color: black;
+    border-bottom-width: 5px;
+    margin-left: 830px;
+    margin-right: 830px;
+    margin-top: -20px;
+    border-radius: 30px;
+}
